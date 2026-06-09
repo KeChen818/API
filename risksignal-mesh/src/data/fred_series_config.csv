@@ -1,0 +1,10 @@
+display_name,series_id,category,risk_theme,unit,frequency,description
+Fed Funds Rate,FEDFUNDS,Rates,Interest Rate Risk,Percent,Monthly,Effective federal funds rate
+10Y Treasury,DGS10,Rates,Interest Rate Risk,Percent,Daily,10-year Treasury constant maturity rate
+2Y Treasury,DGS2,Rates,Interest Rate Risk,Percent,Daily,2-year Treasury constant maturity rate
+Unemployment Rate,UNRATE,Macro,Credit Risk,Percent,Monthly,U.S. unemployment rate
+CPI,CPIAUCSL,Inflation,Inflation Risk,Index,Monthly,Consumer Price Index for All Urban Consumers
+HY Credit Spread,BAMLH0A0HYM2,Credit,Credit Spread Risk,Percent,Daily,ICE BofA US High Yield Option-Adjusted Spread
+IG Credit Spread,BAMLC0A0CM,Credit,Credit Spread Risk,Percent,Daily,ICE BofA US Corporate Option-Adjusted Spread
+Financial Stress Index,STLFSI4,Systemic,Liquidity Risk,Index,Weekly,St. Louis Fed Financial Stress Index
+

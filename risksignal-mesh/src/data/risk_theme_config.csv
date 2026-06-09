@@ -1,0 +1,8 @@
+risk_theme,risk_category,description,fred_series_keywords,polymarket_keywords
+Credit Spread Risk,Credit Risk,Stress from widening credit spreads and weaker credit sentiment,HY Credit Spread;IG Credit Spread,recession;default;credit crisis
+Interest Rate Risk,Market Risk,Stress from rate level volatility and higher-for-longer policy,Fed Funds Rate;10Y Treasury;2Y Treasury,Fed rates;interest rates;rate cuts
+Inflation Risk,Macro Risk,Stress from inflation pressure and monetary policy uncertainty,CPI,inflation;CPI
+Liquidity Risk,Liquidity Risk,Stress from funding market or systemic liquidity conditions,Financial Stress Index,bank crisis;liquidity crisis
+CRE Risk,Credit Risk,Stress affecting commercial real estate borrowers and collateral values,10Y Treasury;Unemployment Rate,recession;commercial real estate;housing
+Geopolitical Risk,Strategic Risk,Stress from elections wars sanctions or policy shocks,,war;election;sanctions;oil
+
