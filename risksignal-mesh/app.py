@@ -219,12 +219,12 @@ def main() -> None:
 
     tabs = st.tabs(
         [
-            "Executive Overview",
-            "FRED Macro Signals",
-            "Polymarket Event Signals",
-            "Risk Theme Mapping",
-            "Risk Profile Summary",
-            "Architecture / Roadmap",
+            "Overview",
+            "FRED Macro",
+            "Polymarket",
+            "Mapping",
+            "Summary",
+            "Roadmap",
         ]
     )
 
