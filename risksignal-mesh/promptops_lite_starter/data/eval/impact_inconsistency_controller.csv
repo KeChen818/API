@@ -1,0 +1,4 @@
+id,impact,comment,expected
+1,High,Potential loss > 50MM,Consistent
+2,Low,Material enterprise-wide loss expected,Inconsistent
+3,Moderate,Expected loss around 10MM,Consistent
